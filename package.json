@@ -1,0 +1,19 @@
+{
+  "name": "console-g-translate",
+  "version": "0.0.5",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "i2n",
+  "dependencies": {
+    "got": "^9.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
