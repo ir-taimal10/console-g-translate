@@ -1,15 +1,21 @@
 ### Console translate
 
-Do you like commands? Now you can use translate without using the browser
+* Do you like run command line?
+* Do you feel embarrassed to open google translate to structure your English phrases?
+* Do you still feel insecure when structuring sentences in other languages?
 
-Install:
+
+Now you can use google translate without using the browser!
+
+Install the Utils as global:
 ```
-npm install
+npm install -g console-g-translate
 ```
 
-Examples:
+And then run your translate as command line:
 ```
-node translate "Está lloviendo"
-node translate "hello world" sk
-node translate "hello world" es
+translate "Está lloviendo"
+translate "hello world" sk
+translate "hello world" es
+translate "Now you can use google translate without using the browser" es
 ```

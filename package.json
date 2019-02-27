@@ -1,13 +1,16 @@
 {
   "name": "console-g-translate",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ."
+    "translate": "node translate"
+  },
+  "bin": {
+    "translate": "./translate.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ir-taimal10/console-g-translate"
   },
   "author": "i2n",
   "dependencies": {
