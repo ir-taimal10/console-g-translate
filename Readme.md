@@ -1,6 +1,6 @@
 ### Console translate
 
-* Do you like run command line?
+* Do you like run command lines?
 * Do you feel embarrassed to open google translate to structure your English phrases?
 * Do you still feel insecure when structuring sentences in other languages?
 
