@@ -1,6 +1,6 @@
 {
   "name": "console-g-translate",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "main": "src/index.js",
   "scripts": {
     "translate": "node translate"
@@ -16,6 +16,13 @@
   "dependencies": {
     "got": "^9.2.2"
   },
+  "keywords": [
+    "command",
+    "translate",
+    "google translate",
+    "translate util"
+  ],
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^5.6.1"
   }

@@ -1,7 +1,7 @@
 ### Console translate
 
 * Do you like run command lines?
-* Do you feel embarrassed to open google translate to structure your English phrases?
+* Do you feel ashamed to open google translate to structure your sentences in other languages?
 * Do you still feel insecure when structuring sentences in other languages?
 
 
